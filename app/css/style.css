@@ -1,0 +1,156 @@
+body {
+    background-color: #FBF5EC;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.text-gradient {
+    background: linear-gradient(to bottom right, #FA4A0C, #942C07);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    /* 保險用 */
+}
+
+.btn-gradient {
+    position: relative;
+    display: inline-block;
+    padding: 0.6rem 1.5rem;
+    font-weight: bold;
+    border: 3px solid transparent;
+    border-radius: 999px;
+    background: linear-gradient(to bottom right, #fa4a0c, #942c07);
+    background-image:
+        linear-gradient(to bottom right, #FA4A0C, #942C07);
+    background-origin: border-box;
+    background-clip: border-box;
+    color: transparent;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.btn-gradient span {
+    background: linear-gradient(to bottom right, white, white);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-gradient:hover {
+    background-image:
+        linear-gradient(#FFA441, #FFA441),
+        linear-gradient(#FFA441, #FFA441);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+}
+
+.btn-gradient:active {
+    background-image:
+        linear-gradient(#E1894B, #E1894B),
+        linear-gradient(#E1894B, #E1894B);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+    border: 3px solid transparent !important;
+}
+
+.btn-outline-gradient {
+    position: relative;
+    display: inline-block;
+    padding: 0.6rem 1.5rem;
+    font-weight: bold;
+    border: 3px solid transparent;
+    border-radius: 999px;
+    background-image:
+        linear-gradient(#FBF5EC, #FBF5EC),
+        linear-gradient(to bottom right, #FA4A0C, #942C07);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+    color: transparent;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.btn-outline-gradient span {
+    background: linear-gradient(to bottom right, #FA4A0C, #942C07);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-outline-gradient:hover {
+    background-image:
+        linear-gradient(#FBF5EC, #FBF5EC),
+        linear-gradient(#FFA441, #FFA441);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+}
+
+.btn-outline-gradient:hover span {
+    background: none;
+    -webkit-text-fill-color: #FFA441;
+}
+
+.btn-outline-gradient:active {
+    background-image:
+        linear-gradient(#FBF5EC, #FBF5EC),
+        linear-gradient(#E1894B, #E1894B);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+    border: 3px solid transparent !important;
+}
+
+.btn-outline-gradient:active span {
+    background: none;
+    -webkit-text-fill-color: #E1894B;
+}
+
+.btn-outline-general {
+    position: relative;
+    display: inline-block;
+    padding: 0.6rem 1.5rem;
+    font-weight: bold;
+    border: 3px solid transparent;
+    border-radius: 999px;
+    background-image:
+        linear-gradient(#FBF5EC, #FBF5EC),
+        linear-gradient(to bottom right, #999, #999);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+    color: transparent;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.btn-outline-general span {
+    background: linear-gradient(to bottom right, #666, #666);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-outline-general:hover {
+    background-image:
+        linear-gradient(#FBF5EC, #FBF5EC),
+        linear-gradient(#333, #333);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+}
+
+.btn-outline-general:hover span {
+    background: none;
+    -webkit-text-fill-color: #333;
+}
+
+.btn-outline-general:active {
+    background-image:
+        linear-gradient(#FBF5EC, #FBF5EC),
+        linear-gradient(to bottom right, #FA4A0C, #942C07);
+    background-origin: padding-box, border-box;
+    background-clip: padding-box, border-box;
+    border: 3px solid transparent !important;
+}
+
+.btn-outline-general:active span {
+    background: none;
+    -webkit-text-fill-color: #000;
+}

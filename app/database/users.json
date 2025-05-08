@@ -1,0 +1,198 @@
+[
+    {
+        "nickname": "Wang C.W.",
+        "email": "example@mail.com",
+        "phone": "0920337558",
+        "password": "$2y$12$hM9X26EnyufppirVO\/cK2eIdtVPqLkbJcxsHnQTNIJ0FwqKH62iqe",
+        "avatar": "uploads\/images\/681ab0a49f84c_17430280.jpg",
+        "created_at": "2025-05-06 18:02:51",
+        "signature": "signature",
+        "restaurants": [
+            "rest_681aa3f95e060",
+            "rest_681aa494b2a21"
+        ]
+    },
+    {
+        "nickname": "AlexTheChef",
+        "email": "alex@example.com",
+        "phone": "0912345678",
+        "password": "$2y$12$nAQERG5NHNB9Umsz1AoF\/OihmqBXQFB6wdHg5ZsrDnmfvzNWjIuLG",
+        "avatar": "",
+        "created_at": "2025-05-08 14:12:00",
+        "signature": "Food is life.",
+        "restaurants": []
+    },
+    {
+        "nickname": "SunnyBites",
+        "email": "sunnybites@example.com",
+        "phone": "0987654321",
+        "password": "$2y$12$kBKL0Y4NZW7Oa7xnTTm6WeuTBNcImuWx\/bTCqZ\/t7J8DDoDNFe3Tq",
+        "avatar": "",
+        "created_at": "2025-05-08 13:45:10",
+        "signature": "Tasting sunshine one bite at a time.",
+        "restaurants": []
+    },
+    {
+        "nickname": "NomNomTom",
+        "email": "tomnom@example.com",
+        "phone": "0934567890",
+        "password": "$2y$12$dJfMW0W7nZtE93gKmB5c8uTjMGHaQa3tpAV\/3zXDeeFrKFKUBRRGy",
+        "avatar": "",
+        "created_at": "2025-05-08 12:33:40",
+        "signature": "Always hungry for more.",
+        "restaurants": []
+    },
+    {
+        "nickname": "ChocoLover",
+        "email": "choco@example.com",
+        "phone": "0976431852",
+        "password": "$2y$12$FUsyE3GpVG5Ui5CTmHb2Iu1GbzAhCD2xZNyX4FEHYmCCHvlNIt4Xq",
+        "avatar": "",
+        "created_at": "2025-05-08 11:58:25",
+        "signature": "Powered by cocoa.",
+        "restaurants": []
+    },
+    {
+        "nickname": "BennyEats",
+        "email": "benny@example.com",
+        "phone": "0913467925",
+        "password": "$2y$12$LU2h3d2rKi9LZ2fZnU0pWe7PIvZGHNS\/XTFS6PxlTqJLOvciHfuQe",
+        "avatar": "",
+        "created_at": "2025-05-08 11:05:12",
+        "signature": "Feeding my curiosity.",
+        "restaurants": []
+    },
+    {
+        "nickname": "GrillMasterJoe",
+        "email": "joegrill@example.com",
+        "phone": "0945671234",
+        "password": "$2y$12$F2q6ozsSzUlXJQwKXobPYuqRckQaIbOSyo0K0r5C4rKSOJmsY\/4ku",
+        "avatar": "",
+        "created_at": "2025-05-08 15:02:31",
+        "signature": "Fire, spice, and everything nice.",
+        "restaurants": []
+    },
+    {
+        "nickname": "TacoBelle",
+        "email": "tacobelle@example.com",
+        "phone": "0975386421",
+        "password": "$2y$12$hVhd8EN0vnShOZ\/vT0DW\/ey6xfz5URKV22mPbH.dHqV7TmzBZXg7y",
+        "avatar": "",
+        "created_at": "2025-05-08 15:05:47",
+        "signature": "Tacos are the answer. Who cares what the question is?",
+        "restaurants": []
+    },
+    {
+        "nickname": "NoodleKing",
+        "email": "noodleking@example.com",
+        "phone": "0965432187",
+        "password": "$2y$12$OxZaUL0c4QfPVJJzYAV49eq7A25zZ4onP4m7YcAHx63Op.P8vWvuO",
+        "avatar": "",
+        "created_at": "2025-05-08 15:09:15",
+        "signature": "Slurping to success.",
+        "restaurants": []
+    },
+    {
+        "nickname": "SallySnacks",
+        "email": "sallysnacks@example.com",
+        "phone": "0956784321",
+        "password": "$2y$12$Rw7Zy9zRrgCgWLLPt4SOjeGGkJxEx0yqK0Y2zAaaJ7C\/CRqg9f8cq",
+        "avatar": "",
+        "created_at": "2025-05-08 15:12:44",
+        "signature": "Snack all day, worry never.",
+        "restaurants": []
+    },
+    {
+        "nickname": "TheCrumbler",
+        "email": "crumbler@example.com",
+        "phone": "0945618273",
+        "password": "$2y$12$fsDHzcG3rOgpemw3l14D8ubT8UxyT7Fg3tPaO.0cF3V\/9EVzr0oXe",
+        "avatar": "",
+        "created_at": "2025-05-08 15:15:55",
+        "signature": "Leaving crumbs and memories.",
+        "restaurants": []
+    },
+    {
+        "nickname": "ChefLing",
+        "email": "lingchef@example.com",
+        "phone": "0930152567",
+        "password": "$2y$12$72PXzQm6XeToWD1tv4kuXebWUwI3gZXMOzPlsnvI3h9QoZC6WwCKK",
+        "avatar": "",
+        "created_at": "2025-05-08 15:20:31",
+        "signature": "Fusion food with a twist.",
+        "restaurants": []
+    },
+    {
+        "nickname": "JamalEats",
+        "email": "jamal@example.com",
+        "phone": "0923456789",
+        "password": "$2y$12$72PXzQm6XeToWD1tv4kuXebWUwI3gZXMOzPlsnvI3h9QoZC6WwCKK",
+        "avatar": "",
+        "created_at": "2025-05-08 15:22:14",
+        "signature": "Taste the rhythm.",
+        "restaurants": []
+    },
+    {
+        "nickname": "AikoPlates",
+        "email": "aiko@example.com",
+        "phone": "0912345678",
+        "password": "$2y$12$72PXzQm6XeToWD1tv4kuXebWUwI3gZXMOzPlsnvI3h9QoZC6WwCKK",
+        "avatar": "",
+        "created_at": "2025-05-08 15:24:01",
+        "signature": "Bento is an art.",
+        "restaurants": []
+    },
+    {
+        "nickname": "CarlosCrunch",
+        "email": "carlos@example.com",
+        "phone": "0901234567",
+        "password": "$2y$12$72PXzQm6XeToWD1tv4kuXebWUwI3gZXMOzPlsnvI3h9QoZC6WwCKK",
+        "avatar": "",
+        "created_at": "2025-05-08 15:25:49",
+        "signature": "Crunch loud, live proud.",
+        "restaurants": []
+    },
+    {
+        "nickname": "LeilaBites",
+        "email": "leila@example.com",
+        "phone": "0987654321",
+        "password": "$2y$12$72PXzQm6XeToWD1tv4kuXebWUwI3gZXMOzPlsnvI3h9QoZC6WwCKK",
+        "avatar": "",
+        "created_at": "2025-05-08 15:27:36",
+        "signature": "Sweet tooth, big dreams.",
+        "restaurants": []
+    },
+    {
+        "nickname": "ZaneZero",
+        "email": "zane@example.com",
+        "phone": "0912345678",
+        "password": "$2y$12$72PXzQm6XeToWD1tv4kuXebWUwI3gZXMOzPlsnvI3h9QoZC6WwCKK",
+        "avatar": "",
+        "created_at": "2025-05-08 15:29:20",
+        "signature": "Minimal eats, max flavor.",
+        "restaurants": []
+    },
+    {
+        "nickname": "NoraNomNom",
+        "email": "nora@example.com",
+        "phone": "0923456789",
+        "password": "$2y$12$72PXzQm6XeToWD1tv4kuXebWUwI3gZXMOzPlsnvI3h9QoZC6WwCKK",
+        "avatar": "",
+        "created_at": "2025-05-08 15:30:55",
+        "signature": "Nom nom all day.",
+        "restaurants": []
+    },
+    {
+        "nickname": "王朝威",
+        "email": "davidwangchaowei@gmail.com",
+        "phone": "0920337558",
+        "password": "$2y$12$CEscKLR6\/DC4Rrue7omIx.topOq5SYzyC3S2p5y\/pMnzLJaIGGocS",
+        "avatar": "uploads\/images\/681c00170901d_images.jpg",
+        "created_at": "2025-05-07 23:38:55",
+        "signature": "signature",
+        "restaurants": [
+            "rest_681c105c3f00a",
+            "rest_681c1dc4b9424"
+        ]
+    }
+]

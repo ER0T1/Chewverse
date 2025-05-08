@@ -1,0 +1,40 @@
+[
+    {
+        "id": "rest_681aa3f95e060",
+        "name": "Crust & Flame",
+        "address": "No. 43, Section 4, Keelung Road, Da'an District, Taipei City 106",
+        "phone": "(02)27376601",
+        "description": "Write some description.",
+        "owner_email": "example@mail.com",
+        "created_at": "2025-05-07 00:06:17"
+    },
+    {
+        "id": "rest_681aa494b2a21",
+        "name": "Cheesy Bliss",
+        "address": "No. 1, Section 4, Roosevelt Road, Da'an District, Taipei City 10617",
+        "phone": "02 3366 3366",
+        "description": "Write some description.Write some description.",
+        "owner_email": "example@mail.com",
+        "created_at": "2025-05-07 00:08:52",
+        "updated_at": "2025-05-07 00:23:45"
+    },
+    {
+        "id": "rest_681c105c3f00a",
+        "name": "SnackRush",
+        "address": "No. 162, Section 1, Heping East Road, Da'an District, Taipei City 106308",
+        "phone": "(02)7749-5140",
+        "description": "",
+        "owner_email": "davidwangchaowei@gmail.com",
+        "created_at": "2025-05-08 02:01:00",
+        "updated_at": "2025-05-08 02:43:42"
+    },
+    {
+        "id": "rest_681c1dc4b9424",
+        "name": "TurboBites",
+        "address": "No. 162, Section 1, Heping East Road, Da'an District, Taipei City 106308",
+        "phone": "(02)7749-5140",
+        "description": "159",
+        "owner_email": "davidwangchaowei@gmail.com",
+        "created_at": "2025-05-08 02:58:12"
+    }
+]
